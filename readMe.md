@@ -11,8 +11,9 @@ include the following files on the home directory:
 
 3. script.js
 4. style.css
+5. Sample-Eu Superstore.xls
 
-the excel file is here for your information when you need to upload it in tableau.
+The excel file is here for your information when you need to upload it in tableau.
 you will need it in step three
 
 # step 2
