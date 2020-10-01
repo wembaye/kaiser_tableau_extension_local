@@ -11,6 +11,7 @@ include the following files on the home directory:
 
 3. script.js
 4. style.css
+
 the excel file is here for your information when you need to upload it in tableau.
 you will need it in step three
 
@@ -18,6 +19,7 @@ you will need it in step three
 1. install:
 http-server globally using the following command: npm install --global http-server
 2. start the server by running: http-server
+
 It runns in http:localhost:8080. 
 
 In the trex file, make sure you change the URL under source-location tag based on the server you run your project. For instance, I use http:localhost:8080 URL in my trex file(see MyExtension.trex for more details)
